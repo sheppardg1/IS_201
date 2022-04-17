@@ -1,0 +1,44 @@
+.customBackground{
+    position: relative;
+  margin-bottom: 3rem;
+  padding-top: calc(8rem + 57px);
+  padding-bottom: 8rem;
+  background: no-repeat center center;
+  background-color: #6c757d;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.onPageAnchors{
+  display: inline;
+  padding: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  text-decoration: underline;
+}
+
+
+.resumeListHeader{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.resumeListItems{
+  font-style: normal;
+  font-weight: normal;
+}
+
+.pictureSize{
+  width: 600px;
+  
+}
+
+.contactInfo{
+  text-align: center;
+}
+
+.externalLink{
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+}
